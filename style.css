@@ -1,0 +1,252 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+
+nav{
+    height: 80px;
+    width: 100%;
+}
+label.section-page{
+    font-size: 0px;
+    font-weight: bold;
+    color: white;
+    padding: 0 0px;
+    line-height: 70px;
+}
+nav ul{
+    float: right;
+    margin-right: 40px;
+}
+nav li{
+    display: inline-block;
+    margin: 0 8px;
+    line-height: 90px;
+}
+nav a{
+    color: rgb(66, 61, 61);
+    font-size: 20px;
+    text-transform:uppercase;
+    border: 2px solid transparent;
+    padding: 5px 7px;
+    border-radius: 3px;
+
+}
+a.active:active,a.hover{
+   border: 1px solid white;
+   transition: .3s;
+}
+.content h1{
+font-size: 30px;
+font-weight: 100;
+margin-top: 25px;
+margin-bottom: 15px;
+
+}
+.a{
+    color:orange;
+}
+.content2{
+    display: flex;
+    margin-top: 50px;
+}
+.content2 h1{
+    display: flex;
+}
+.content3{
+    display: flex;
+    margin-top: 20px 30px;
+
+}
+.content6 h4{
+padding: 15px;
+justify-content: center;
+display:flex;
+}
+.content6{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 70px;
+    margin-left: 100px;
+
+}
+#content6.content1{
+   margin-right: 45px;
+   margin-left: 50px;
+   padding: 0 12px;
+}
+.image{
+    margin-left: 60%;
+    border-radius: 9px;
+}
+body{
+    background-color: #6cc;
+    
+}
+.ambulance p{
+    display: flex;
+    
+}
+
+.dental p{
+    margin-left:650px ;
+    
+    
+}
+.dental h1{
+    margin-left: 50%;
+    padding-left: 10px;
+}
+.images{
+    margin-left: 30px;
+    border-radius: 100%;
+    margin-bottom: 70px;
+}
+.Services
+{
+    background-color: rgb(240, 236, 243);
+}
+.header
+{
+    display: flex;
+    background:aliceblue;
+}
+.header p
+{
+   margin-left: 50%;
+   margin-top: 2%; 
+   background:aliceblue;
+}
+.header h2
+{
+    margin-left: 5%;
+    margin-top: 2%;
+    font-size: 30px; 
+}
+.column1
+{
+    display: flex;
+    background: white;
+    
+}
+.column2
+{
+    display: flex;
+    background: white;
+
+}
+.radio
+{
+    background:white;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.ambulance
+{
+    background:rgb(243, 240, 235);
+    margin-left: 100px;
+    border-radius:5px ;
+    margin-top: 10px;
+}
+.dental
+{
+    background: rgb(241, 234, 234);
+    margin-left: 100px;
+    padding-left: 5%;
+    border-radius: 5px;
+    margin-top: 9px;
+}
+.operation
+{
+    background:white;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+.parturition
+{
+    background:white;
+    margin-left: 100px;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+.pet
+{
+    background:white;
+    margin-left: 100px;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+.column3{
+    background-color: rgb(171, 245, 245);
+}
+.column3 h3
+{
+  background: rgb(179, 240, 238); 
+  margin-left: 950px;
+  margin-top: 20px;
+}
+.column3 p{
+    margin-left: 800px;
+    margin-top: 30px;
+}
+.column4
+{
+    background-color: rgb(181, 219, 216);
+}
+.column4 p1
+{
+    margin-left: 900px;
+}
+.column4 .interested
+{
+    display: flex;
+}
+.column5 
+{
+   background-color: rgb(184, 235, 230);
+}
+.content
+{
+    display: flex;
+}
+.imaget
+{
+    margin-left: 60px;
+    margin-top: 7px;
+    border-radius: 100px;
+}
+.imagez
+{
+    margin-left: 60px;
+    border-radius: 100px;
+}
+.imagew
+{
+    margin-bottom: 20px;
+}
+.Quqlified h4
+{
+    justify-content: center;
+}
+.subscribe
+{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
